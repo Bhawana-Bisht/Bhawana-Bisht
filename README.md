@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhawana Bisht</h1>
-<h3 align="center">A passionate Full-Stack Developer & Data Analytics Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Full-Stack Developer & Data Analytics Enthusiast from India </h3>
 
 <p align="center">
 <a href="https://github.com/Bhawana-Bisht">
