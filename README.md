@@ -19,7 +19,7 @@
 
 - 🎓 MCA Student at Bipin Tripathi Kumaon Institute of Technology  
 - 🔭 I’m currently working on **AI-Powered Data Analytics Dashboard**  
-- 👯 I’m looking to collaborate on **Full-Stack Web & AI Projects**  
+- 👯 I’m looking to collaborate on **Full-Stack Web , AI Projects and Data analytics  projects **  
 - 🤝 I’m looking for help with **GenAI & Machine Learning Projects**  
 - 🌱 I’m currently learning **Advanced React.js, Node.js, Machine Learning & GenAI**  
 - 💬 Ask me about **React, JavaScript, Python, SQL, REST APIs, Data Analytics**  
