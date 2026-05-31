@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me  
 
 - 🎓 MCA Student at Bipin Tripathi Kumaon Institute of Technology  
-- 🔭 I’m currently working on **AI-Powered Data Analytics Dashboard**  
+- 🔭 I’m currently working on **LLM based crop disease prediction**  
 - 👯 I’m looking to collaborate on **Full-Stack Web , AI Projects and Data analytics  projects **  
 - 🤝 I’m looking for help with **GenAI & Machine Learning Projects**  
 - 🌱 I’m currently learning **Advanced React.js, Node.js, Machine Learning & GenAI**  
@@ -82,7 +82,14 @@
 
 ### 🛒 E-Commerce Web Application  
 - Developed scalable e-commerce platform with authentication & payment gateway  
-- Reduced page load time by 57%  
+- Reduced page load time by 57%
+
+###  🌱 LLM based Crop predctiobn
+- Built an LLM-based crop disease prediction platform with image analysis and AI-driven recommendations.
+Implemented multilingual chatbot support for disease diagnosis and crop management guidance.
+Deployed a scalable prediction system with optimized response time and high usability for farmers.
+
+- 
 
 ## 🌐 Connect With Me  
 
