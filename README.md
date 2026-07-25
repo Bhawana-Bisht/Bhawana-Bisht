@@ -25,7 +25,7 @@ const bhawana = {
 
     education: "Master of Computer Applications (2024–2026)",
 
-    location: "Haldwani, Uttarakhand, India",
+    location: " India",
 
     role: "Full Stack Developer",
 
