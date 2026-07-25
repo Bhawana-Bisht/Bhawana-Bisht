@@ -21,55 +21,68 @@ Building intelligent web applications using the MERN Stack while exploring AI, L
 ```javascript
 const bhawana = {
 
-    education: "MCA",
+    name: "Bhawana Bisht",
 
-    location: "India",
+    education: "Master of Computer Applications (2024–2026)",
+
+    location: "Haldwani, Uttarakhand, India",
 
     role: "Full Stack Developer",
 
     specialization: [
-        "MERN Stack",
-        "Data Analytics",
-        "Artificial Intelligence",
-        "REST APIs"
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "REST APIs",
+        "Machine Learning",
+        "Artificial Intelligence"
     ],
 
-    currentlyBuilding: "LLM-based Crop Disease Prediction Platform",
+    currentlyBuilding: [
+        "Online Examination Portal",
+        "LLM Crop Disease Prediction System"
+    ],
 
     learning: [
+        "Spring Security",
+        "JWT Authentication",
         "GenAI",
-        "Machine Learning",
-        "Advanced React",
-        "Node.js"
+        "System Design",
+        "Advanced React.js"
+    ],
+
+    interests: [
+        "Backend Development",
+        "AI Applications",
+        "Data Analytics",
+        "Open Source"
     ],
 
     lookingFor: [
-        "Software Engineering Internship",
-        "AI Projects",
-        "Open Source Collaboration"
+        "Software Engineer Internship",
+        "Java Full Stack Roles",
+        "Backend Development Roles"
     ]
 }
 ```
 
----
-
 # 02 / PHILOSOPHY
 
-I enjoy building software that solves real-world problems.
+I enjoy building software that solves meaningful real-world problems.
 
-My interests lie at the intersection of Full-Stack Development, Artificial Intelligence, and Data Analytics, where I can create applications that are both scalable and impactful.
+My primary focus is Java Full Stack Development using Spring Boot and React.js while integrating Artificial Intelligence and Machine Learning into practical applications.
 
-Currently, I'm focused on developing AI-powered applications and strengthening my backend engineering skills.
-
----
+I believe clean architecture, scalable backend systems, and thoughtful user experiences are the foundation of great software. Every project I build is an opportunity to learn something new and create lasting impact.
 
 # 03 / TECH STACK
 
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,mysql"/>
 </p>
+
+---
 
 ## 🎨 Frontend
 
@@ -77,91 +90,98 @@ Currently, I'm focused on developing AI-powered applications and strengthening m
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
+---
+
 ## ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
 </p>
+
+---
 
 ## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-## 🤖 AI & Data
+---
 
+## 🤖 AI & Machine Learning
+
+- CNN
+- MobileNetV2
+- EfficientNetB0
+- Explainable AI (XAI)
 - Machine Learning
-- Pandas
-- Scikit-Learn
-- LLMs
 - Data Analytics
+- Large Language Models (LLMs)
+
+---
 
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
-
----
 
 # 04 / FEATURED PROJECTS
 
-## 🤖 AI-Powered Data Analytics Dashboard
+## 🌱 LLM Crop Disease Prediction
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • GenAI
+Python • CNN • MobileNetV2 • EfficientNetB0 • XAI
 
-**Highlights**
+### Highlights
 
-- AI-powered insights
-- Real-time analytics
-- Forecasting
-- Interactive Dashboard
+- Achieved **93%+ validation accuracy**
+- Transfer Learning
+- Explainable AI (XAI)
+- Disease Diagnosis
+- Treatment Recommendations
 
 ---
 
-## 🌱 LLM-Based Crop Disease Prediction
+## 📝 Online Examination Portal
 
 **Tech Stack**
 
-Python • Flask • Machine Learning • LLM
+Java • Spring Boot • React.js • MySQL • Spring Security • JWT
 
-**Highlights**
+### Highlights
 
-- Disease Prediction
-- Image Analysis
-- AI Recommendations
-- Multilingual Support
-
----
-
-## 🛒 E-Commerce Web Application
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
-**Highlights**
-
-- Authentication
-- Payment Integration
-- Responsive UI
-- Faster Performance
+- Role-Based Authentication
+- REST APIs
+- Timed Online Exams
+- Automatic Result Generation
+- Leaderboard System
 
 ---
 
-# 05 / CURRENT FOCUS
+## 📊 GenAI Powered Data Analytics
 
-- 🚀 Building AI-powered applications
-- 🌱 Learning GenAI & LLMs
-- 💻 Improving MERN Stack skills
-- 📊 Exploring Data Analytics
-- 🌍 Contributing to Open Source
+### Highlights
 
----
+- AI Assisted Data Analysis
+- Business Insights
+- Data Visualization
+- Decision Making
 
+# 10 / 2026 ROADMAP
+
+☕ Master Spring Boot Ecosystem
+
+🚀 Deploy Full Stack Applications
+
+🤖 Build AI Powered Software
+
+📚 Strengthen System Design Skills
+
+🌍 Contribute to Open Source
+
+💼 Secure a Software Engineering Role
 # 06 / GITHUB ANALYTICS
 
 <p align="center">
