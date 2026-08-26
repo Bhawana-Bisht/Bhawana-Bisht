@@ -262,4 +262,4 @@ https://www.linkedin.com/in/bhawanabisht-986b51351
 
 ### Thanks for visiting my profile!
 
-⭐ If you like my work, consider following me and starring my repositories. and thi smy resume add acoording it also
+⭐ If you like my work, consider following me and starring my repositories.
