@@ -1,10 +1,10 @@
-div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=180&section=header&text=Bhawana%20Bisht&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React.js%20%7C%20AI%2FML&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=150&section=header"/>
 
-<a href="https://github.com/Bhawana-Bisht">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js;Building+AI-Powered+Applications;Open+to+Software+Developer+Roles"/>
-</a>
+# Hi, I'm Bhawana Bisht 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js;Building+AI-Powered+Applications;Open+to+Software+Developer+Roles"/>
 
 <br/>
 
@@ -207,4 +207,5 @@ AI-assisted data analysis for business insights, visualization, and decision-mak
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer"/>
 
 <div align="center"><sub>Thanks for visiting my profile! ⭐</sub></div>
+
 
