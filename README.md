@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Hi, I'm Bhawana Bisht 👋
@@ -70,7 +68,12 @@ My primary focus is full-stack development with **Java, Spring Boot, and React.j
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/></p>
 
 **Machine Learning & AI**
-CNN · MobileNetV2 · EfficientNetB0 · Transfer Learning · Explainable AI (XAI) · NumPy · pandas · Scikit-learn
+<p><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn"/></p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<br/>
+<sub>CNN · MobileNetV2 · EfficientNetB0 · Transfer Learning · Explainable AI (XAI)</sub>
 
 ## 04 / Featured Projects
 
